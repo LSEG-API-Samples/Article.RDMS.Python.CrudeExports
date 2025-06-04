@@ -1,5 +1,5 @@
 # Estimating U.S. crude exports.
 
-This Jupyter Notebook accompanies the article titled ["Estimating U.S. crude exports"](https://developers.refinitiv.com/en/article-catalog/article/estimating-crude-exports) on Refinitiv Developer Portal.
+This Jupyter Notebook accompanies the article titled ["Estimating U.S. crude exports"](https://developers.lseg.com/en/article-catalog/article/estimating-crude-exports) on LSEG Developer Portal.
 
-**Required Python Packages:** requests, json, configparser, refinitiv.dataplatform, pandas, numpy, os, csv, plotly, cufflinks
+**Required Python Packages:** requests, json, configparser, lseg.data, pandas, numpy, os, csv, plotly, cufflinks
